@@ -1,4 +1,4 @@
-# Zeyad & Malak — Invitation (Design v2)
+# Ammar & Doha Engagement invitation
 
 This version follows the structure/style of the Kareem & Zeina invitation:
 hero → photos album → reception info → countdown/calendar → location → event flow → RSVP → music.
