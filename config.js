@@ -12,8 +12,8 @@ const DATA = {
   time: "8:00 PM",
 
   venue: "Your Venue",
-  venueAddress: "Your venue address",
-  mapLink: "https://www.google.com/maps",
+  venueAddress: "قاعة فلورا قسم عين شمس",
+  mapLink: "https://maps.app.goo.gl/J2xQDWShKHx8bfX86",
   // Optional Google Maps embed URL. If left empty, the map box stays blank.
   mapEmbed: "",
 
