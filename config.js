@@ -3,13 +3,13 @@
   Put your photos in /images and change the names below if needed.
 */
 const DATA = {
-  groom: "Zeyad",
-  bride: "Malak",
+  groom: "Ammar",
+  bride: "Doha",
 
   eventISO: "2026-10-09T19:00:00+03:00",
-  dateEN: "October 9, 2026",
-  dateAR: "9 أكتوبر 2026",
-  time: "7:00 PM",
+  dateEN: "November 1, 2026",
+  dateAR: "1 نوفمبر 2026",
+  time: "8:00 PM",
 
   venue: "Your Venue",
   venueAddress: "Your venue address",
@@ -25,14 +25,13 @@ const DATA = {
   ],
 
   schedule: [
-    ["7:00 PM", "Guest Welcome", "استقبال الضيوف"],
-    ["7:30 PM", "Couple Entrance", "دخول العروسين"],
-    ["8:00 PM", "Dancing & Celebration", "الاحتفال والرقص"],
-    ["8:30 PM", "Ring Moment", "لحظة تقديم الدبل"],
-    ["9:00 PM", "Surprise", "مفاجأة"],
+    ["8:00 PM", "Guest Welcome", "استقبال الضيوف"],
+    ["8:15 PM", "Couple Entrance", "دخول العروسين"],
+    ["8:30 PM", "Dancing & Celebration", "الاحتفال والرقص"],
+    ["9:00 PM", "Ring Moment", "لحظة تقديم الدبل"],
     ["9:30 PM", "Dinner", "العشاء"],
     ["10:00 PM", "Dancing & Celebration", "الاحتفال والرقص"],
-    ["10:30 PM", "Group Photos", "الصور الجماعية"],
-    ["11:00 PM", "Closing", "ختام الحفل"]
+    ["11:30 PM", "Group Photos", "الصور الجماعية"],
+    ["12:00 PM", "Closing", "ختام الحفل"]
   ]
 };
