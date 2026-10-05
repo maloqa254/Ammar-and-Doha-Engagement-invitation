@@ -18,9 +18,9 @@ const DATA = {
   mapEmbed: "",
 
   images: [
-    "images/photo1.jpg",
-    "images/photo2.jpg",
-    "images/photo3.jpg",
+    "images/photo_2026-10-05_16-03-06.jpg",
+    "images/photo_2026-10-05_16-10-46.jpg",
+    "images/photo_2026-10-05_16-11-37.jpg",
   ],
 
   schedule: [
